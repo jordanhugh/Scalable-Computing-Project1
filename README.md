@@ -1,2 +1,2 @@
 # Scalable-Computing-Project1
-CAPTCHA Image Classification
+Fixed-Length CAPTCHA Solver
